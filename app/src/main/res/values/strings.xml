@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MyKtorDemoApp</string>
     <string name="app_logo">App Logo</string>
+    <string name="on_boarding_image">Onboarding Image</string>
 </resources>
